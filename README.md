@@ -1,4 +1,4 @@
-# jobmarket.io
+# Jobmarket.io
 
 # Description
 The project is used to analyse the 'data analysis' job market. 
@@ -13,4 +13,4 @@ what tools will need to use this project.
 how to use it after installation
 
 # License
-(MIT License)[https://opensource.org/licenses/MIT]
+[MIT License](https://opensource.org/licenses/MIT)
